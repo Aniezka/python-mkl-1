@@ -1,3 +1,3 @@
 # HW_4
 
-Ссылка на колаб: https://colab.research.google.com/drive/12nb2cj-IcRauOzdW9OENeMOLZ0ptVTOa?usp=sharing 
+Ссылка на колаб (слетели шрифты): https://colab.research.google.com/drive/1ZYJ9AnmE59iC45vGAC9VhAK-xNZJWby3?usp=sharing
