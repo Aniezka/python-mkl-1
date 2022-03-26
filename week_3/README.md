@@ -1,1 +1,1 @@
-# HW from week_3 anf week_4
+# HW from week_3 and week_4
